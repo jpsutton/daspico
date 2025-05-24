@@ -89,7 +89,7 @@ The CircuitPython firmware (`code.py`) offers:
 ### Finished Installation
 <img src="images/installed.jpeg" alt="PCB Board Render" width="70%">
 
-*3D render of the daspico controller PCB showing component placement and board layout*
+*Installed in a DasKeyboard Model S Professional*
 
 ## Features
 
