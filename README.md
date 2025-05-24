@@ -22,7 +22,7 @@ The `board/` directory contains the complete KiCad project files for the custom 
 
 ### Manufacturing
 
-The PCB is designed to be manufactured by standard PCB fabrication services. The board includes:
+The PCB is designed to be manufactured by standard PCB fabrication services (I used [OSHPark](https://oshpark.com/shared_projects/ivYUztXI)). The board includes:
 - Standard 1.6mm thickness
 - Single-sided assembly with minimal hand-soldering required
 - Plated screw holes which line up with the placement of the original controller PCB
